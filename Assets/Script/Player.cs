@@ -35,5 +35,8 @@ public class Player : MonoBehaviour
         
         anim.SetBool("isRun", moveVec != Vector3.zero); // 움직이지 않을 때 isRun이 false
         anim.SetBool("isWalk", walkDown);
+        
+        
+        transform.LookAt(transform.position + moveVec); // 나아가는 방향을 바라본다
     }
 }
