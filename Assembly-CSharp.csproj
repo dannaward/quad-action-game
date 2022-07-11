@@ -43,6 +43,7 @@
   <ItemGroup>
      <Compile Include="Assets/QuarterView 3D Action BE5/ReadMe/Scripts/ReadmeBE5.cs" />
      <Compile Include="Assets/Script/Player.cs" />
+     <Compile Include="Assets/Script/CameraFollow.cs" />
      <Reference Include="UnityEngine">
      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>
