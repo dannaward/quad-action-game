@@ -41,7 +41,6 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/QuarterView 3D Action BE5/ReadMe/Scripts/ReadmeBE5.cs" />
      <Compile Include="Assets/Script/Player.cs" />
      <Compile Include="Assets/Script/CameraFollow.cs" />
      <Reference Include="UnityEngine">
@@ -679,6 +678,10 @@
      </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{6f360d2e-58e9-5ec2-5e6b-96a04a46973c}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.Editor.csproj">
       <Project>{9fd1ad8f-b8af-17bf-6a3d-2ff4a9ab0abf}</Project>
       <Name>Unity.VisualScripting.Flow.Editor</Name>
