@@ -176,3 +176,45 @@ Received Import Request.
   path: Assets/QuarterView 3D Action BE5/Readme.asset
   artifactKey: Guid(40de9ed37630dc5418b57960bb7be849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/QuarterView 3D Action BE5/Readme.asset using Guid(40de9ed37630dc5418b57960bb7be849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc06ff74198a36089741170d90a6706e') in 0.960337 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25382.260490 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(eea6190bffdc3442584285d5caf4db0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(eea6190bffdc3442584285d5caf4db0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ee39dd018b1a6e41114390624bf24b') in 0.000520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.543337 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(eea6190bffdc3442584285d5caf4db0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(eea6190bffdc3442584285d5caf4db0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9daf47fa9e88da0f29a98beaaf49462b') in 0.000509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.896671 seconds.
+  path: Assets/Materials/Floor.mat
+  artifactKey: Guid(13fba2251741f488eaf595ff1a2e5b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Floor.mat using Guid(13fba2251741f488eaf595ff1a2e5b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e998afeb99a7da17a9a89b4f7be30426') in 0.348627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.274495 seconds.
+  path: Assets/QuarterView 3D Action BE5/Textures/_Pattern.png
+  artifactKey: Guid(dd3fb6baae3a2b14f9a23ec6ed2db723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QuarterView 3D Action BE5/Textures/_Pattern.png using Guid(dd3fb6baae3a2b14f9a23ec6ed2db723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a07be5a45c073ad9f524a0729ff052f') in 0.056319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/QuarterView 3D Action BE5/Textures/Enemy B.png
+  artifactKey: Guid(5fc6913241246d54b98db1b106e19ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QuarterView 3D Action BE5/Textures/Enemy B.png using Guid(5fc6913241246d54b98db1b106e19ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76354282999e34836468fd4ed264d64e') in 0.004517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/QuarterView 3D Action BE5/Textures/Enemy C.png
+  artifactKey: Guid(efb1c84380e704f44aaf0a19777c0663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QuarterView 3D Action BE5/Textures/Enemy C.png using Guid(efb1c84380e704f44aaf0a19777c0663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64e55608e343edefab876d9b00149b57') in 0.004149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/QuarterView 3D Action BE5/Textures/Coin Silver.png
+  artifactKey: Guid(4d326d723433e364a84a0db839113fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QuarterView 3D Action BE5/Textures/Coin Silver.png using Guid(4d326d723433e364a84a0db839113fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66796995803951e65934c1a8327dc16') in 0.003585 seconds 
